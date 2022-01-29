@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdghaniallag
 - 👀 I’m interested in android and web applications
-- 🌱 I’m currently learning js 
+- 🌱 I’m currently learning Dart and Flutter framework  
 - 💞️ I’m looking to collaborate on frontend web projects
 - 📫 you can reach me using this email @ abdghaniallag@gmail.com
 
