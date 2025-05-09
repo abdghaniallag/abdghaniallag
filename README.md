@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdghaniallag.
-- 👀 I’m interested in Mobile and web applications.
-- 🌱 I am currently learning the Dart and Flutter framework side by side with a Django Web Applications.
-- 💞️ I’m looking to collaborate on frontend and fullstack web projects.
+- 👀 I’m interested in Mobile and AI integration.
+- 🌱 I am currently havving fun with Flutter framework side by side with Computer Vision AI tools.
+- 💞️ I’m looking to collaborate on AI Computer Vision project.
 - 📫 you can reach me using this email @ abdelghaniallag.dev@gmail.com
